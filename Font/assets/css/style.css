@@ -1,0 +1,35 @@
+div.icon {
+    height: 166px;
+    width: 193px;
+    background-color: #bd6f51;
+    box-sizing: border-box;
+    padding-left: 65px;
+    padding-top: 47px;
+    border-radius: 0px 40px;
+    margin-left: 145px;
+}
+
+div.content {
+    width: 30%;
+    box-sizing: border-box;
+    margin-left: 40%;
+    margin-top: 15%;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Bona Nova', serif;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 33px;
+}
+
+p {
+    color: #72706a;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    padding-left: 20px;
+    font-size: 28px;
+    text-align: justify;
+
+}
